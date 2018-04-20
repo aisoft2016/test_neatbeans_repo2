@@ -1,0 +1,14 @@
+{
+    "name": "alin.duica/just_a_test_repo",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "alin999",
+            "email": "alinduica@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
